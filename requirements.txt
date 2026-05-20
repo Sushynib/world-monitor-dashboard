@@ -2,3 +2,4 @@ streamlit
 folium
 requests
 yfinance
+feedparser
